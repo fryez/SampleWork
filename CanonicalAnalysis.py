@@ -11,7 +11,7 @@ import re;
 import types;
 import random;
 import csv;
-
+ 
 FILETARGET = 'FILEPATH/';
 PDBTARGET = 'FILEPATH/PDB/'; 
 
