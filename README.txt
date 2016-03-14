@@ -1,5 +1,5 @@
-# SampleWork\n
-Sample programs for my graduate work.  See PDF for description of their use.\n
+# SampleWork
+Sample programs for my graduate work.  See PDF for description of their use.
 
 The files for the HTS experiment inlcude:
   HTS Align.py
