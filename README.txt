@@ -6,6 +6,8 @@ The files for the HTS experiment inlcude:
   mypyfunctions.py
   proteinfx.py
   sequencefx.py
+  
+  Please use Alternative_AlignFile.py if the separated file and modules above don't work.
 
 Reading the data and trimming the lower quality reads
 This python script reads the fastq files one sequence at time and processes it before moving to the next. This allows the rapid scanning of incredibly large files without taxing the computer’s storage capacity with maintaining large amount of data.
